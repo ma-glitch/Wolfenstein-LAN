@@ -2,7 +2,7 @@
 #connect til db
 $servername = "localhost";
 $username = "root";
-$password = "Root";
+$password = "Admin";
 $dbname = "lan";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
